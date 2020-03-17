@@ -1,6 +1,7 @@
 
 #!/usr/bin/env python 
 # -*- coding:utf-8 -*-
+#https://github.com/AngelSecurityTeam/SubDomainExt
 
 import requests
 print("""
